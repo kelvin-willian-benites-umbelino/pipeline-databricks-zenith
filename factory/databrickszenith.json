@@ -1,0 +1,9 @@
+{
+	"name": "databrickszenith",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f873bd80-4c7d-4011-8c45-8b5a80c1f4e7",
+		"tenantId": "2279359e-2dd6-4aa4-8eac-c7bce1352132"
+	}
+}
